@@ -1,0 +1,27 @@
+.carousel-item img{
+    /* height: 500px; */
+}
+.carousel-caption h5{
+    font-size: 3rem;
+    color: white;
+}
+.carousel-caption p{
+    color: white;
+    font-size: .8rem;
+}
+.card-text{
+    font-size: .8rem;
+}
+.card img{
+    /* width: 100%; */
+}
+/* .card-body{
+    background-color: aquamarine;
+    width: 100%;
+} */
+.info-section p{
+    font-size: .7rem;
+}
+.read-more{
+    width: 150px;
+}
