@@ -15,13 +15,17 @@
 .card img{
     /* width: 100%; */
 }
-/* .card-body{
-    background-color: aquamarine;
-    width: 100%;
-} */
 .info-section p{
     font-size: .7rem;
 }
 .read-more{
     width: 150px;
+}
+
+.social-media-icons i{
+    color: lightgray;
+    font-size: 2rem;
+}
+.social-media-icons i:hover{
+    color: aqua;
 }
